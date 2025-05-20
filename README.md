@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ASriramreddy/leetcode/tree/master/0029-divide-two-integers) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ASriramreddy/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Simulation
 |  |
@@ -62,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ASriramreddy/leetcode/tree/master/0029-divide-two-integers) |
 | [0861-flipping-an-image](https://github.com/ASriramreddy/leetcode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
