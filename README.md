@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ASriramreddy/leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ASriramreddy/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ASriramreddy/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/ASriramreddy/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/ASriramreddy/leetcode/tree/master/0661-image-smoother) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ASriramreddy/leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ASriramreddy/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ASriramreddy/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/ASriramreddy/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/ASriramreddy/leetcode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/ASriramreddy/leetcode/tree/master/0777-toeplitz-matrix) |
