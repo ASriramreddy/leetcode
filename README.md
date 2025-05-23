@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ASriramreddy/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/ASriramreddy/leetcode/tree/master/0029-divide-two-integers) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ASriramreddy/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Simulation
