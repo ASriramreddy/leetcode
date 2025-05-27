@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ASriramreddy/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/ASriramreddy/leetcode/tree/master/0367-valid-perfect-square) |
 ## Sliding Window
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ASriramreddy/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/ASriramreddy/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ASriramreddy/leetcode/tree/master/0050-powx-n) |
+| [0367-valid-perfect-square](https://github.com/ASriramreddy/leetcode/tree/master/0367-valid-perfect-square) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ASriramreddy/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Simulation
 |  |
