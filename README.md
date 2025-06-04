@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ASriramreddy/leetcode/tree/master/0367-valid-perfect-square) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ASriramreddy/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ASriramreddy/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ASriramreddy/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ASriramreddy/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ASriramreddy/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ASriramreddy/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ASriramreddy/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
