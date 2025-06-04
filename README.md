@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/ASriramreddy/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/ASriramreddy/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ASriramreddy/leetcode/tree/master/0898-transpose-matrix) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/ASriramreddy/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ASriramreddy/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ASriramreddy/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ASriramreddy/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ASriramreddy/leetcode/tree/master/0050-powx-n) |
 | [0367-valid-perfect-square](https://github.com/ASriramreddy/leetcode/tree/master/0367-valid-perfect-square) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/ASriramreddy/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/ASriramreddy/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Simulation
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASriramreddy/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/ASriramreddy/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
