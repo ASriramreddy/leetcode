@@ -1,19 +1,22 @@
-import java.util.Stack;
-class Solution {
-    public boolean isValid(String s) {
+class Solution{
+    public boolean isValid(String s){
         Stack<Character> stack = new Stack<>();
-        char[] arr = s.toCharArray();
-        for (char c : arr) {
-            if (c == '(' || c == '{' || c == '[') {
-                stack.push(c);
-            } else if (c == ')' || c == '}' || c == ']') {
-                if (stack.isEmpty()) return false;
-                char top = stack.pop();
-                if (Math.abs(c - top) > 2) return false;
-            } else {
-                return false;
+        for(int i = 0; i < s.length(); i++){
+            char current = s.charAt(i);
+            if(!stack.isEmpty()){
+                char last = stack.peek();
+                if(isPair(last, current)){
+                    stack.pop();
+                    continue;
+                }
             }
+            stack.push(current);
         }
         return stack.isEmpty();
+    }
+    public boolean isPair(char last, char current){
+        return (last == '(' && current == ')')
+        || (last == '[' && current == ']')
+        || (last == '{' && current == '}');
     }
 }
