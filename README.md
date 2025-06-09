@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ASriramreddy/leetcode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/ASriramreddy/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ASriramreddy/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/ASriramreddy/leetcode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ASriramreddy/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/ASriramreddy/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/ASriramreddy/leetcode/tree/master/0661-image-smoother) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ASriramreddy/leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ASriramreddy/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASriramreddy/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/ASriramreddy/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ASriramreddy/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ASriramreddy/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ASriramreddy/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -173,4 +175,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ASriramreddy/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ASriramreddy/leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/ASriramreddy/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
