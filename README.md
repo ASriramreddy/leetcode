@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ASriramreddy/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/ASriramreddy/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/ASriramreddy/leetcode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/ASriramreddy/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ASriramreddy/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ASriramreddy/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ASriramreddy/leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/ASriramreddy/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/ASriramreddy/leetcode/tree/master/0367-valid-perfect-square) |
 ## Sliding Window
