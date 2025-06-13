@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ASriramreddy/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ASriramreddy/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ASriramreddy/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ASriramreddy/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ASriramreddy/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ASriramreddy/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ASriramreddy/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ASriramreddy/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ASriramreddy/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ASriramreddy/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ASriramreddy/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ASriramreddy/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
